@@ -1,0 +1,39 @@
+/* Full tabs, no radius for Firefox */
+.tab-background {
+  border-radius: 0 !important;
+  margin: 0!important;
+}
+#TabsToolbar {
+  border-bottom: none!important;
+}
+.tabbrowser-tab {
+  padding: 0!important;
+  height: 45px !important;
+  overflow-clip-margin: 0!important;
+}
+.tab-background[selected="true"] {
+  box-shadow: none!important;
+  margin-bottom: 0!important;
+  border: 0!important;
+}
+#nav-bar-customization-target {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.tab-content {
+  padding: 0 10px!important;
+}
+.tab-label {
+  font-size: 1.1em;
+}
+.tab-throbber, 
+.tab-icon-pending, 
+.tab-icon-image, 
+.tab-sharing-icon-overlay, 
+.tab-icon-overlay {
+  height: 18px;
+  width: 18px;
+}
+#PersonalToolbar {
+  padding-bottom: 5px!important;
+}
