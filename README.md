@@ -18,4 +18,4 @@
 
 
 ## 🤍 The experience is better with this theme
-[https://addons.mozilla.org/en-US/firefox/addon/whitewindows/](https://addons.mozilla.org/en-US/firefox/addon/whitewindows/)
+[https://addons.mozilla.org/en-US/firefox/addon/whitewindow/](https://addons.mozilla.org/en-US/firefox/addon/whitewindow/)
