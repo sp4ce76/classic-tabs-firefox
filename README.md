@@ -22,5 +22,5 @@
 
 
 ## 🤍 The experience is better with these themes
-[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)
+[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
