@@ -21,5 +21,6 @@
 8. **Restart** Firefox to apply the changes
 
 
-## 🤍 The experience is better with this theme
-[https://addons.mozilla.org/en-US/firefox/addon/whitewindow/](https://addons.mozilla.org/en-US/firefox/addon/whitewindow/)
+## 🤍 The experience is better with these themes
+[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)
+[https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
