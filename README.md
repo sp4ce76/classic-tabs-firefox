@@ -8,7 +8,7 @@
 
 2. If a warning page appears, **click** `Accept the Risk and Continue` to access the `about:config` page
 
-3. **Search** `toolkit.legacyUserProfileCustomizations.stylesheets` **and turn it to** `true`
+3. **Search** `toolkit.legacyUserProfileCustomizations.stylesheets` **and set it to** `true`
 
 4. **Type** `about:support` in the address bar and press <kbd>Enter</kbd>
 
