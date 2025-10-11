@@ -21,6 +21,13 @@
 8. **Restart** Firefox to apply the changes
 
 
-## 🎨 The experience is better with these themes
+## 🎨 The EXPERIENCE is BETTER with THESE THEMES
 [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
+
+## The add-on "Lectura : My reading list with groups" for Mozilla Firefox
+
+![preview](preview/preview-addon.png)
+
+You can try and install on [https://addons.mozilla.org/en-US/firefox/addon/lectura](https://addons.mozilla.org/en-US/firefox/addon/lectura) 
+
