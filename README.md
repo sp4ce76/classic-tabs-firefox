@@ -21,12 +21,12 @@
 8. **Restart** Firefox to apply the changes
 
 
-## The add-on "Lectura : My reading list with groups" for Mozilla Firefox
+## Add-on "Lectura : My reading list with groups" for Mozilla Firefox
 
 ![preview](preview/preview-addon.png)
 
 You can try and install on [https://addons.mozilla.org/en-US/firefox/addon/lectura](https://addons.mozilla.org/en-US/firefox/addon/lectura) 
 
-## 🎨 I RECOMMEND THESE THEMES for Mozilla Firefox
+## 🎨 Try these themes for Mozilla Firefox
 [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
