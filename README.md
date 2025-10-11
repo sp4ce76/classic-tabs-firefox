@@ -21,7 +21,7 @@
 8. **Restart** Firefox to apply the changes
 
 
-## Add-on "Lectura : My reading list with groups" for Mozilla Firefox
+## 📂 Add-on "Lectura : My reading list with groups" for Mozilla Firefox
 
 ![preview](preview/preview-addon.png)
 
